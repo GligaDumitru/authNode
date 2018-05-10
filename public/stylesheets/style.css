@@ -1,0 +1,26 @@
+.starter-template{
+  margin-top:100px!important;
+}
+body{
+  background: #f2f2f2;
+}
+
+ul.success li{
+  list-style: none;
+
+  padding: 20px;
+  color:#555;
+  border:1px solid transparent;
+  background: springgreen;
+  font-size: 20px;
+}
+
+ul.error li{
+  list-style: none;
+
+  padding: 20px;
+  color:#555;
+  border:1px solid transparent;
+  background : rgb(189, 9, 9);
+  font-size: 20px;
+}
